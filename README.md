@@ -28,3 +28,4 @@ PMBok6
     - Sand to Silicon - the Making of a Chip - Intel.mp4 (Intel版)
     - ‘Semiconductor Manufacturing Process’ Explained - Samsung Semiconductor.mp4（Samsung版）
   - 2.2 0和1如何改变这个世界（宏观版）.pptx
+  - 2.3 0和1如何改变这个世界（具体实现）.pptx
